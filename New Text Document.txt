@@ -1,0 +1,62 @@
+
+ <div class="head">
+  <h1>Trending Beats</h1>
+  <div id="c1" class="card" style="width: 18rem;">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    </div>
+  </div>
+  <div id="c2" class="card" style="width: 18rem;">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    </div>
+  </div>
+  <div  class="card" style="width: 18rem;">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    </div>
+  </div>
+   
+   
+   <div>
+    <img src="play1.png" id="play1" class="img-thumbnail" alt="...">
+    <img src="play1.png" id="play2" class="img-thumbnail" alt="...">
+    <img src="play1.png" id="play3" class="img-thumbnail" alt="...">
+    <img src="play1.png" id="play4" class="img-thumbnail" alt="...">
+   </div>
+   <div>
+    <p id="name1" >Dear Soulmate <br>14Beats</p>
+    <p id="name2">Only A Lifetime <br>20Beats</p>
+    <p id="name3">Heat Waves<br>16Beats</p>
+    <p id="name4">Le Paglu Dance <br>19Beats</p>
+    <button id="btn3" class="btn btn-warning" type="submit">Expore more beats</button>
+   </div>
+  
+   <img src="greybg.jpg" id="greybg" class="img-fluid" alt="reload">
+   <div class="head2">
+    <h1>Top African Producer worked with us</h1>
+   </div>
+   <div>
+    <img src="pic.jpg" id="producer1" class="img-fluid" alt="">
+    <img src="pic.jpg" id="producer2" class="img-fluid"  alt="">
+    <img src="pic.jpg" id="producer1" class="img-fluid" alt="">
+    <img src="pic.jpg" id="producer2" class="img-fluid" alt="">
+    <img src="pic.jpg" id="producer1" class="img-fluid" alt="">
+    <img src="pic.jpg" id="producer2" class="img-fluid" alt="">
+
+   </div>
+   <div class="head2">
+   <h1>Popular Genres</h1>
+   </div>
+   <div>
+    <img src="round.jpg" id="round"class="rounded-circle" alt="Cinque Terre">
+    <img src="round.jpg" id="round"class="rounded-circle" alt="Cinque Terre">
+    <img src="round.jpg" id="round"class="rounded-circle" alt="Cinque Terre">
+    <img src="round.jpg" id="round"class="rounded-circle" alt="Cinque Terre">
+    <img src="round.jpg" id="round"class="rounded-circle" alt="Cinque Terre">
+   </div>
+
+   <img src="secondaryBg.jpg" id=secbg" class="img-fluid" alt="reload">
